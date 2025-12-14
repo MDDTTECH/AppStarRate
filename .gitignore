@@ -34,3 +34,12 @@ Carthage/Build
 # `pod install` in .travis.yml
 #
 Pods/
+
+# SPM
+.swiftpm
+.idea
+*.resolved
+*.xcworkspace
+*.framework
+*.xcframework
+.gitrelease
